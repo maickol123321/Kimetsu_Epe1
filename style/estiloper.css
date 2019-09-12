@@ -1,0 +1,183 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+
+header, nav, section, article, aside, footer{
+    display: block;
+}
+
+body{  
+    text-align: center;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: auto, auto;
+    background-image: url(https://images6.alphacoders.com/100/thumb-1920-1000031.jpg);
+    background-attachment: fixed;
+}
+
+
+#caja_principal{
+    width: 900px;
+    margin: 15px auto;
+    text-align: left;
+}
+
+
+#cabecera{
+    background: #FAFAFA;
+    border: 1px solid #000000;
+    padding: 20px;
+}
+
+
+
+#barra_navegacion{
+    background-color: black;
+}
+
+#barra_navegacion ul li{
+display: inline-block;
+
+}
+
+#barra_navegacion ul li a{
+    color: white;
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+}
+
+#barra_navegacion ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+#barra_navegacion ul li a:hover{
+    background-color: purple;
+}
+#Personaje1{
+    border: solid;
+    float: left;
+    width: 580px;
+    margin: 20px;
+    background: #E6E6E6;
+}
+
+#Personaje2{
+    border: solid;
+    float: left;
+    width: 580px;
+    margin: 20px;
+    background: #E6E6E6;
+}
+
+#Personaje3{
+    border: solid;
+    float: left;
+    width: 580px;
+    margin: 20px;
+    background: #E6E6E6;
+}
+
+#Personaje4{
+    border: solid;
+    float: left;
+    width: 580px;
+    margin: 20px;
+    background: #E6E6E6;
+}
+
+#Personaje5{
+    border: solid;
+    float: left;
+    width: 580px;
+    margin: 20px;
+    background: #E6E6E6;
+}
+
+
+#Personaje6{
+    border: solid;
+    float: left;
+    width: 580px;
+    margin: 20px;
+    background: #E6E6E6;
+}
+
+.tanrijo{
+    float: left;
+    width: 140px;
+    height: 210px;
+    margin: 10px 0px 
+}
+
+.nezuko{
+    float: left;
+    width: 140px;
+    height: 210px;
+    margin: 10px 0px 
+}
+
+.zenitsu{
+    float: left;
+    width: 140px;
+    height: 210px;
+    margin: 10px 0px 
+}
+
+.muzan{
+    float: left;
+    width: 140px;
+    height: 210px;
+    margin: 10px 0px 
+}
+.tomioka{
+    float: left;
+    width: 140px;
+    height: 210px;
+    margin: 10px 0px 
+}
+
+.inosuke{
+    float: left;
+    width: 140px;
+    height: 210px;
+    margin: 10px 0px 
+}
+
+#columna2{
+    float: left;
+    width: 200px;
+    margin: 20px 0px;
+    padding: 20px;
+    background: #D8D8D8;
+}
+
+#columna{
+    float: right;
+    width: 200px;
+    margin: 20px 0px;
+    padding: 20px;
+    background: #D8D8D8;
+}
+
+#pie{
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid #000000;
+
+}
